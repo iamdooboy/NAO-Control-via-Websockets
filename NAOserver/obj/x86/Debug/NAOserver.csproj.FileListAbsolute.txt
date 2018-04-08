@@ -1,0 +1,206 @@
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\MainWindow.baml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\App.g.cs
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver_Content.g.cs
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver_MarkupCompile.cache
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.g.resources
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.Properties.Resources.resources
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.csproj.GenerateResource.Cache
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\logo_NAO.ico
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\NAOserver.exe
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\NAOserver.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\naoqi-dotnet4.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Common.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Facility.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperWebSocket.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\log4net.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\naoqi-dotnet4.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Common.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Common.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Facility.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Facility.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperWebSocket.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperWebSocket.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\logo_NAO.ico
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\NAOserver.exe
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\NAOserver.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Common.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Facility.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperWebSocket.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\log4net.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\naoqi-dotnet4.xml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Common.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Common.xml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Facility.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.Facility.xml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.xml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.xml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperWebSocket.pdb
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Debug\SuperWebSocket.xml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\MainWindow.baml
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\App.g.cs
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver_Content.g.cs
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver_MarkupCompile.cache
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.g.resources
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.Properties.Resources.resources
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Debug\NAOserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\logo_NAO.ico
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\NAOserver.exe
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\NAOserver.pdb
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\naoqi-dotnet4.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.Common.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.Facility.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperWebSocket.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\log4net.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\naoqi-dotnet4.xml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.Common.pdb
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.Common.xml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.Facility.pdb
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.Facility.xml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.xml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.xml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperWebSocket.pdb
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\bin\x86\Debug\SuperWebSocket.xml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver_Content.g.cs
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver_MarkupCompile.cache
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver.g.resources
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver.Properties.Resources.resources
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\Administrator\Downloads\nao-server-master\nao-server-master\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\logo_NAO.ico
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\naoqi-dotnet4.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\log4net.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\naoqi-dotnet4.xml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.xml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.xml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.xml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.xml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.pdb
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.xml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver_Content.g.cs
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver_MarkupCompile.cache
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.g.resources
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\Administrator\Desktop\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Admin\Documents\NAO Robot\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\Admin\Documents\NAO Robot\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\Admin\Documents\NAO Robot\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\logo_NAO.ico
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\naoqi-dotnet4.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\log4net.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\naoqi-dotnet4.xml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.xml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.xml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.xml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.xml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.pdb
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.xml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\MainWindow.baml
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\App.g.cs
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver_Content.g.cs
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver_MarkupCompile.cache
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.g.resources
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.Properties.Resources.resources
+C:\Users\Duy Le\Desktop\NAOPetFeederNewest\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.csproj.GenerateResource.Cache
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe.config
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.exe
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\logo_NAO.ico
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.exe
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\NAOserver.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\naoqi-dotnet4.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\log4net.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\naoqi-dotnet4.xml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Common.xml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.Facility.xml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketBase.xml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperSocket.SocketEngine.xml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.pdb
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\bin\x86\Debug\SuperWebSocket.xml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\MainWindow.baml
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\App.g.cs
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver_Content.g.cs
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver_MarkupCompile.cache
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.g.resources
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.Properties.Resources.resources
+C:\Users\Duy Le\Desktop\NAO Control Websockets\NAO Control Websockets\NAOPetFeeder\NAOserver\obj\x86\Debug\NAOserver.csproj.GenerateResource.Cache

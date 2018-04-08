@@ -1,0 +1,100 @@
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\NAOserver.exe.config
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\logo_NAO.ico
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\NAOserver.exe
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\NAOserver.pdb
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\naoqi-dotnet4.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperWebSocket.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Common.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\log4net.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\naoqi-dotnet4.xml
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.pdb
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.xml
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.pdb
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.xml
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperWebSocket.pdb
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperWebSocket.xml
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Common.pdb
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Common.xml
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\MainWindow.baml
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\MainWindow.g.cs
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\App.g.cs
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver_Content.g.cs
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver_MarkupCompile.cache
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver.g.resources
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver.Properties.Resources.resources
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver.csproj.GenerateResource.Cache
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver.exe
+C:\Users\austi_000\Documents\Visual Studio 2013\Projects\NAO Server\NAOserver\obj\x86\Release\NAOserver.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\logo_NAO.ico
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\NAOserver.exe.config
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\NAOserver.exe
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\NAOserver.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\naoqi-dotnet4.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\naoqi-dotnet4.xml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\MainWindow.baml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\MainWindow.g.cs
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\App.g.cs
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver_Content.g.cs
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver_MarkupCompile.cache
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver.g.resources
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver.Properties.Resources.resources
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver.csproj.GenerateResource.Cache
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver.exe
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\log4net.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Common.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Facility.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperWebSocket.dll
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Common.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Common.xml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Facility.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.Facility.xml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.xml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.xml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperWebSocket.pdb
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\bin\x86\Release\SuperWebSocket.xml
+C:\Users\austi_000\Documents\Bitbucket\NAO Server\NAOserver\obj\x86\Release\NAOserver.csprojResolveAssemblyReference.cache
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\NAOserver.exe.config
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.exe
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\logo_NAO.ico
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\NAOserver.exe
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\NAOserver.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.Common.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.Facility.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperWebSocket.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\log4net.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\naoqi-dotnet4.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.Common.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.Common.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.Facility.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.Facility.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.SocketBase.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperSocket.SocketEngine.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperWebSocket.pdb
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\SuperWebSocket.xml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\MainWindow.baml
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\MainWindow.g.cs
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\App.g.cs
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver_Content.g.cs
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver_MarkupCompile.cache
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.g.resources
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.Properties.Resources.resources
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.csproj.GenerateResource.Cache
+C:\Users\austi_000\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\naoqi-dotnet4.dll
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\bin\x86\Release\NAOserver.exe.config
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.exe
+C:\Users\Austin\Documents\Bitbucket\nao-server\NAOserver\obj\x86\Release\NAOserver.pdb

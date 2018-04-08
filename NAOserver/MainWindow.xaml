@@ -1,0 +1,14 @@
+﻿<Window x:Class="NAOserver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NAO Control via Websockets" Height="202.409" Width="420" ResizeMode="CanMinimize" Closing="Window_Closing" StateChanged="OnStateChanged" Icon="logo_NAO.ico">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="connectButton" Content="Start" HorizontalAlignment="Left" Margin="43,49,0,0" VerticalAlignment="Top" Width="139" Height="70" Click="connectButton_Click" IsEnabled="False" Grid.ColumnSpan="2"/>
+        <Button x:Name="disconnectButton" Content="Stop" HorizontalAlignment="Left" Margin="158,49,0,0" VerticalAlignment="Top" Width="139" Height="70" Click="disconnectButton_Click" Grid.Column="1"/>
+
+    </Grid>
+</Window>
