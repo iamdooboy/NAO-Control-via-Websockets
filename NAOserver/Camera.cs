@@ -97,9 +97,9 @@ namespace NAO_Camera_WPF
             catch (Exception e)
             {
                 // display error message and write exceptions to a file
-                //MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
                 naoCamera = null;
-                //System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
             }
         }
 

@@ -34,8 +34,8 @@ namespace NAO_Camera_WPF
             }
             catch (Exception e)
             {
-               // MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
-               // System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString()); // write exepctions to text file
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString()); // write exepctions to text file
             }
         }
 
@@ -58,9 +58,9 @@ namespace NAO_Camera_WPF
             }
             catch (Exception e)
             {
-               // display error message and write exceptions to a file
-               // MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
-               // System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
+                // display error message and write exceptions to a file
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
             }
         }
 
@@ -76,9 +76,9 @@ namespace NAO_Camera_WPF
             }
             catch (Exception e)
             {
-               // display error message and write exceptions to a file
-               // MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
-               // System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
+                // display error message and write exceptions to a file
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
             }
         }
 
@@ -94,9 +94,9 @@ namespace NAO_Camera_WPF
             }
             catch (Exception e)
             {
-               // display error message and write exceptions to a file
-               // MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
-               // System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
+                // display error message and write exceptions to a file
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
             }
         }
 
@@ -115,9 +115,9 @@ namespace NAO_Camera_WPF
             }
             catch (Exception e)
             {
-               // display error message and write exceptions to a file
-               // MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
-               // System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
+                // display error message and write exceptions to a file
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
             }
 
             return -1;
@@ -137,9 +137,9 @@ namespace NAO_Camera_WPF
             }
             catch (Exception e)
             {
-               // display error message and write exceptions to a file
-               // MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
-               // System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
+                // display error message and write exceptions to a file
+                MessageBox.Show("Exception occurred, error log in C:\\NAOserver\\exception.txt");
+                System.IO.File.WriteAllText(@"C:\\NAOserver\\exception.txt", e.ToString());
             }
         }
     }

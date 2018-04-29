@@ -1,6 +1,6 @@
 ﻿/**
- * Last Modified by Duy Le
- * Last Modified: 2018-4-5
+ * Last Modified by Duy Le & Matthew Besedick
+ * Last Modified: 4/29/2018
  * 
  */
 
@@ -34,14 +34,13 @@ namespace NAOserver
         private static Motion naoMotion = null;
         private static DispatcherTimer sendFrameTimer = new DispatcherTimer();
         //private DispatcherTimer recordFrameTimer = new DispatcherTimer();
-        private WebSocketServer appServer = null;
+        private static WebSocketServer appServer = null;
         private NotifyIcon naoNotifyIcon;
         
         // Variables
         private const int COLOR_SPACE = 13;
         private const int FPS = 30;
-        private static string ip = "192.168.0.102";
-        private static int port = 443;
+        private static string ip;
         private bool isCamInitialized;
         private bool isPictureUpdating = false;
         private bool saveImage = false;
@@ -52,8 +51,6 @@ namespace NAOserver
         private static List<WebSocketSession> sessionList = new List<WebSocketSession>();
         private static float yaw;
         private static float pitch;
-        private static float roll;
-        private static float hand;
         private bool failed = false;
         private long frameCount = 0;
 
@@ -77,11 +74,13 @@ namespace NAOserver
 
             currentFormat = naoCam.NaoCamImageFormats[2];
 
+            ip = ipBox.Text;
+
             // Make sure the standard output directory exists
-            //if (!System.IO.Directory.Exists("C:\\NAOserver\\"))
-            //{
-            //    System.IO.Directory.CreateDirectory("C:\\NAOserver\\");
-            //}
+            if (!System.IO.Directory.Exists("C:\\NAOserver\\"))
+            {
+                System.IO.Directory.CreateDirectory("C:\\NAOserver\\");
+            }
 
             connect();
         }
@@ -106,9 +105,6 @@ namespace NAOserver
             if (this.WindowState == WindowState.Minimized)
             {
                 this.ShowInTaskbar = false;
-                //naoNotifyIcon.BalloonTipTitle = "Minimize Sucessful";
-                //naoNotifyIcon.BalloonTipText = "Minimized the app ";
-                //naoNotifyIcon.ShowBalloonTip(400);
                 naoNotifyIcon.Visible = true;
             }
             else if (this.WindowState == WindowState.Normal)
@@ -132,7 +128,6 @@ namespace NAOserver
                 // disconnect from camera and stop the timer
                 naoCam.Disconnect();
                 sendFrameTimer.Stop();
-                //recordFrameTimer.Stop();
             }
             catch (Exception)
             { }
@@ -167,6 +162,7 @@ namespace NAOserver
             connectButton.IsEnabled = true;
             disconnectButton.IsEnabled = false;
 
+            logBox.Text = "\nDisconnected";
         }
 
         private void connect()
@@ -176,14 +172,16 @@ namespace NAOserver
             appServer = new WebSocketServer();
 
             //Setup the websocket
-            if (!appServer.Setup(port)) //Setup with listening port
+            if (!appServer.Setup(Convert.ToInt32(portBox.Text))) //Setup with listening port
             {
+                logBox.Text = "\nFailed to setup!";
                 failed = true;
             }
 
             //Try to start the websocket
             if (!appServer.Start() && !failed)
             {
+                logBox.Text = "\nFailed to start!";
                 failed = true;
             }
 
@@ -196,9 +194,9 @@ namespace NAOserver
                 try // attempt to connect to the camera and motion system
                 {
                     // connect to the NAO Motion API
-                    naoMotion.connect(ip);
+                    naoMotion.connect(ipBox.Text);
 
-                    naoCam.connect(ip, currentFormat, COLOR_SPACE, FPS);
+                    naoCam.connect(ipBox.Text, currentFormat, COLOR_SPACE, FPS);
 
                     // Create a timer for event based frame acquisition. 
                     // Program will attempt to get new frame 30 times a second
@@ -208,21 +206,20 @@ namespace NAOserver
                     // whenever the timer ticks the bitmapReady event is called
                     sendFrameTimer.Tick += new EventHandler(bitmapReady);
 
-                    // timer to store images to file every 10 seconds
-                    //recordFrameTimer.Interval = new TimeSpan(0, 0, 10);
-                    //recordFrameTimer.Start();
-
-                    //recordFrameTimer.Tick += new EventHandler(storeFrame);
-
                     // let rest of program know that camera is ready
                     isCamInitialized = true;
 
+                    logBox.Text = "\nConnected";
                 }
                 catch (Exception ex)
                 {
                     isCamInitialized = false;
 
                     failed = true;
+
+                    // display error message and write exceptions to a file
+                    logBox.Text = "\nException occurred ";
+
                 }
             }
 
@@ -232,7 +229,8 @@ namespace NAOserver
                 disconnectButton.IsEnabled = true;
             }
         }
-       
+
+ 
         /// <summary>
         /// Sends a new jpg through the websocket
         /// </summary>
@@ -285,7 +283,8 @@ namespace NAOserver
                     }
                     catch (Exception e1)
                     {
-
+                        // display error message and write exceptions to a file
+                        logBox.Text = "\nException occurred";
                     }
                 }
             }
@@ -304,8 +303,7 @@ namespace NAOserver
             {
                 sessionList.Add(session);
             }
-           
-           
+                
             // move the robots head in the desired direction
             if (message == "left")
             {
@@ -328,20 +326,15 @@ namespace NAOserver
                 naoMotion.moveJoint(pitch + .1f, "HeadPitch");
             }
            
-            if(message == "Reset NAO")
-            {
-                naoMotion.connect(ip);
-                naoCam.Disconnect();
-                naoCam.connect(ip, currentFormat, COLOR_SPACE, FPS);
-            }
-            if (message == "Disconnect")
+            if(message == "Disconnect")
             {
                 naoCam.Disconnect();
+                appServer.Stop();
             }
         }
 
         
- 
+
 
         /// <summary>
         /// event handler for sessions disconnecting
